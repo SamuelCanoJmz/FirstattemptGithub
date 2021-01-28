@@ -1,4 +1,5 @@
 Why would you use Git init? to crate a Repository :)
 Why do we use git status? To aknowledge in which Branch we are in, to know the status of the stage we are, and inside the stage which file are been tracking and finally what have been changed.
 why do we use git add? To add a file with modifications or not tracking to stage.
-why do we use git clone? to clone a reporsitory from github or other git sites
+why do we use git clone? to clone a repository from github or other git sites
+why do we use git diff? To check the difference between two commits
