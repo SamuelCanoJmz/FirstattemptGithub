@@ -1,0 +1,1 @@
+Why would you use Git init? to crate a Repository :)
